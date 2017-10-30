@@ -1,0 +1,10 @@
+C:\CWI\Projetos\DojoAspNetCore\bin\Debug\netcoreapp2.0\DojoAspNetCore.deps.json
+C:\CWI\Projetos\DojoAspNetCore\bin\Debug\netcoreapp2.0\DojoAspNetCore.runtimeconfig.json
+C:\CWI\Projetos\DojoAspNetCore\bin\Debug\netcoreapp2.0\DojoAspNetCore.runtimeconfig.dev.json
+C:\CWI\Projetos\DojoAspNetCore\bin\Debug\netcoreapp2.0\DojoAspNetCore.dll
+C:\CWI\Projetos\DojoAspNetCore\bin\Debug\netcoreapp2.0\DojoAspNetCore.pdb
+C:\CWI\Projetos\DojoAspNetCore\obj\Debug\netcoreapp2.0\DojoAspNetCore.csproj.CoreCompileInputs.cache
+C:\CWI\Projetos\DojoAspNetCore\obj\Debug\netcoreapp2.0\DojoAspNetCore.AssemblyInfoInputs.cache
+C:\CWI\Projetos\DojoAspNetCore\obj\Debug\netcoreapp2.0\DojoAspNetCore.AssemblyInfo.cs
+C:\CWI\Projetos\DojoAspNetCore\obj\Debug\netcoreapp2.0\DojoAspNetCore.dll
+C:\CWI\Projetos\DojoAspNetCore\obj\Debug\netcoreapp2.0\DojoAspNetCore.pdb
